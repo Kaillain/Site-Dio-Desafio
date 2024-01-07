@@ -3,7 +3,7 @@
     color: #000000;
 }
 header{
-    background-image: url(banner.png);
+    background-image: url('banner.png');
     background-color: #000000ec; 
     background-blend-mode: luminosity;
     background-size: 100%;
